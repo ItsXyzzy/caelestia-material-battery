@@ -1,4 +1,4 @@
-# Caelestia Battery Popout
+# Caelestia Material Battery
 
 A restyled battery popout for the [Caelestia](https://github.com/caelestia-dots/shell) shell:
 
