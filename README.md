@@ -6,6 +6,10 @@ A restyled battery popout for the [Caelestia](https://github.com/caelestia-dots/
 - The time left shown inside the gauge, like `6h 29m left`, or `28m to full` while charging
 - Turns green and pulses while charging
 
+## Screenshots
+![Battery Screenshot](screenshots/batt_1.png)
+![Battery Screenshot](screenshots/batt_2.png)
+
 ## Install
 
 ```bash
